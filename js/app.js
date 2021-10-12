@@ -20,7 +20,8 @@
 // 1) Define the required variables used to track the state of the game:
   // None of these variables will need to hold a value when they are defined
 
-	// 1.1) Use an array to represent the squares on the board.    
+	// 1.1) Use an array to represent the squares on the board.   
+   
 
 	// 1.2) Use a turn variable to track whose turn it is.
 
@@ -123,4 +124,5 @@
 	// 6.2) Store the new replay button element
 
 	// 6.3) Do steps 4.1 (initialize the state variables) and 4.2 (render).
-```
+
+  // Make it pretty with CSS, animations, etc. 
