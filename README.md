@@ -5,7 +5,7 @@ _____
 
 
 ### **Details**
-Spooky Tic Tac Toe is a regular old tic tac toe game, but in the theme of Halloween. It is one of the first small projects I built while coding, that helped me to learn JavaScript logic. 
+Spooky Tic Tac Toe is a regular old tic tac toe game but in the theme of Halloween. It is one of the first small projects I built while coding that helped me to learn JavaScript logic. 
 
 
 ### **Shoutouts**
